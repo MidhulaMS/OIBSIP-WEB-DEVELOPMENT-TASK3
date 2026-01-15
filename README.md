@@ -19,10 +19,10 @@ Instantly view the converted temperature.
 
 This project helps reinforce fundamental frontend development skills such as DOM manipulation, event handling, and logical problem-solving.
 
-#TECHNOLOGIES USED:
+# TECHNOLOGIES USED:
 
-HTML5 – Structure and layout of the web page
+HTML5 – Structure and layout of the web page.
 
-CSS3 – Styling and responsive design
+CSS3 – Styling and responsive design.
 
-JavaScript (ES6) – Temperature conversion logic and interactivity
+JavaScript (ES6) – Temperature conversion logic and interactivity.
